@@ -1,0 +1,26 @@
+cd karol-g
+mkdir amargura
+mkdir el-barco
+mkdir friki
+
+cd amargura
+mkdir gucci-los-paños
+cd gucci-los-paños
+touch okid.oki
+cd ..
+cd ..
+
+cd el-barco
+mkdir 200-copas
+cd 200-copas
+touch ojos.fer
+cd ..
+cd ..
+
+cd friki 
+mkdir se-jodio-to
+cd se-jodio-to
+touch tusgafi.tas
+cd ..
+cd ..
+
