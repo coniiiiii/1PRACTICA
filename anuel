@@ -1,0 +1,27 @@
+cd anuel
+
+mkdir espina
+mkdir los-dioses
+mkdir 23-preguntas
+
+cd espina
+mkdir ella-quiere-bailar
+cd ella-quiere-bailar
+touch realhasta.lmt
+cd ..
+cd ..
+
+cd los-dioses
+mkdir municiones
+cd municiones
+touch llorando.euf
+cd ..
+cd ..
+
+cd 23-preguntas
+mkdir las-leyendas-nunca-mueren
+touch anuel.lnm
+cd .. 
+cd ..
+
+
